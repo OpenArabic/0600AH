@@ -1,2 +1,8 @@
 # 0600AH
-Texts from the 6th hijri century
+
+* 0521IbnAbiYacla.TabaqatHanabila
+* 0544CiyadIbnMusaYahsubi.TartibMadarik
+* 0561Samcani.Ansab
+* 0571IbnCasakir.TarikhDimashq
+* 0578IbnBashkuwal.Sila
+* 0597IbnJawzi.Muntazam
