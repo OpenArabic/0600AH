@@ -1,4 +1,4 @@
-# 0600AH [[ [Re]generated on 2016-02-15 (18:44:04) ]]
+# 0600AH [[ [Re]generated on 2016-02-22 (15:10:06) ]]
 
 * `0521IbnAbiYacla.TabaqatHanabila (TAGS: BIO,COL)`
 * `0544CiyadIbnMusaYahsubi.TartibMadarik (TAGS: BIO,COL)`
@@ -6,3 +6,4 @@
 * `0571IbnCasakir.TarikhDimashq (TAGS: BIO,COL)`
 * `0578IbnBashkuwal.Sila (TAGS: BIO,COL)`
 * `0597IbnJawzi.Muntazam (TAGS: BIO,COL,CHR)`
+* `0599IbnYahyaDabbi.BughyaMultamis (TAGS: ...)`

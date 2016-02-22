@@ -1,3 +1,10 @@
+http://archive.org/download/Boughyat_Dabbi/
+http://archive.org/download/Boughyat_Dabbi/Boughyat_Dabbi01.gif
+http://archive.org/download/Boughyat_Dabbi/Boughyat_Dabbi01.pdf
+http://archive.org/download/Boughyat_Dabbi/Boughyat_Dabbi01_text.pdf
+http://archive.org/download/Boughyat_Dabbi/Boughyat_Dabbi02.gif
+http://archive.org/download/Boughyat_Dabbi/Boughyat_Dabbi02.pdf
+http://archive.org/download/Boughyat_Dabbi/Boughyat_Dabbi02_text.pdf
 https://archive.org/download/FP149781/
 https://archive.org/download/FP149781/00_149781.gif
 https://archive.org/download/FP149781/00_149781.pdf
@@ -61,13 +68,3 @@ https://archive.org/download/FP149781/cover17_thumb.jpg
 https://archive.org/download/FP149781/cover18.jpg
 https://archive.org/download/FP149781/cover18_thumb.jpg
 https://archive.org/download/FP149781/cover_thumb.jpg
-https://archive.org/download/WAQ110029/
-https://archive.org/download/WAQ110029/00_110029.gif
-https://archive.org/download/WAQ110029/00_110029.pdf
-https://archive.org/download/WAQ110029/00_110029_text.pdf
-https://archive.org/download/WAQ110029/01_110029.gif
-https://archive.org/download/WAQ110029/01_110029.pdf
-https://archive.org/download/WAQ110029/01_110029_text.pdf
-https://archive.org/download/WAQ110029/02_110030.gif
-https://archive.org/download/WAQ110029/02_110030.pdf
-https://archive.org/download/WAQ110029/02_110030_text.pdf
