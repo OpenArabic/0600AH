@@ -1,4 +1,4 @@
-# 0600AH [[ [Re]generated on 2016-04-08 (17:51:53) ]]
+# 0600AH [[ [Re]generated on 2016-04-08 (18:20:49) ]]
 
 * `0507AbuBakrShashi.HilyaCulama (TAGS: ...,PPE)`
 * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: PPE)`
@@ -18,6 +18,7 @@
 * `0565IbnZaydBayhaqi.TarikhBayhaq (TAGS: ...,PPE)`
 * `0571IbnCasakir.MucjamShuyukh (TAGS: ...,PPE)`
 * `0571IbnCasakir.TarikhDimashq (TAGS: BIO,COL,PPE)`
+* `0575IbnBabawayh.Fihrist (TAGS: ...,SCH,PPE)`
 * `0575IbnKhayrIshbili.Fahrasa (TAGS: ...,PPE)`
 * `0576IbnMuhammadSilafi.MashyakhaBaghdadiyya (TAGS: ...,PPE)`
 * `0576IbnMuhammadSilafi.MucjamSafar (TAGS: BIO,COL,PPE)`
