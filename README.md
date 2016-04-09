@@ -1,9 +1,9 @@
-# 0600AH [[ [Re]generated on 2016-04-09 (16:54:56) ]]
+# 0600AH [[ [Re]generated on 2016-04-09 (18:07:22) ]]
 
 * `0507AbuBakrShashi.HilyaCulama (TAGS: ...,PPE)`
 * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: PPE)`
 * `0508.FattalNaysaburi.RawdaWacizin (TAGS: ...,SHC,PPE)`
-* `0511IbnMandahYahya.MacrifaAsamiArdaf (TAGS: ...)`
+* `0511IbnMandahYahya.MacrifaAsamiArdaf (TAGS: ...,PPE)`
 * `0521IbnAbiYacla.TabaqatHanabila (TAGS: BIO,COL,PPE)`
 * `0521MuhammadHamadhani.TakmilaTarikhTabari (TAGS: ...)`
 * `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (TAGS: ...,PPE)`
@@ -18,8 +18,10 @@
 * `0561Samcani.Ansab (TAGS: ONO,COL,DHB,PPE)`
 * `0561Samcani.Muntakhab (TAGS: ...,PPE)`
 * `0561Samcani.Tahbir (TAGS: ...,PPE)`
+* `0565IbnZaydBayhaqai.TatimmaSiwanHikma (TAGS: ...,PPE)`
 * `0565IbnZaydBayhaqi.LubabAnsab (TAGS: ...,PPE)`
 * `0565IbnZaydBayhaqi.TarikhBayhaq (TAGS: ...,PPE)`
+* `0569CumaraHakami.NukatCasriyya (TAGS: ...,PPE)`
 * `0571IbnCasakir.MucjamShuyukh (TAGS: ...,PPE)`
 * `0571IbnCasakir.TarikhDimashq (TAGS: BIO,COL,PPE)`
 * `0575IbnBabawayh.Fihrist (TAGS: ...,SCH,PPE)`
@@ -39,6 +41,8 @@
 * `0597IbnJawzi.DucafaWaMatrukin (TAGS: ...,PPE)`
 * `0597IbnJawzi.Mashyakha (TAGS: ...,BIO,PPE)`
 * `0597IbnJawzi.Muntazam (TAGS: BIO,COL,CHR,DHB,PPE)`
+* `0597IbnJawzi.MuthirGharam (TAGS: ...,GEO,PPE)`
 * `0597IbnJawzi.SifaSafwa (TAGS: BIO,COL,PPE)`
 * `0597IbnJawzi.TalqihFuhum (TAGS: ...,PPE)`
+* `0597IbnJawzi.TarikhBaytMuqaddas (TAGS: ...,PPE)`
 * `0599IbnYahyaDabbi.BughyaMultamis (TAGS: ...,PPE)`
