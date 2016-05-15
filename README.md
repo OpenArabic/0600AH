@@ -1,4 +1,4 @@
-# 0600AH [[ [Re]generated on 2016-04-21 (09:25:03) ]]
+# 0600AH [[ [Re]generated on 2016-05-15 (19:29:21) ]]
 
 * `0507AbuBakrShashi.HilyaCulama (TAGS: CENT0600,PPE,_FIQH,_SHAFICI)`
 * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: CENT0600,PPE,_ANSAB,_HADITH,_MISC,_TABAQAT,_TARAJIM)`
@@ -34,6 +34,7 @@
 * `0578IbnBashkuwal.GhawamidAsma (TAGS: CENT0600,PPE,_HADITH,_MISC,_TABAQAT,_TARAJIM)`
 * `0578IbnBashkuwal.Sila (TAGS: BIO,CENT0600,COL,PPE,_TARAJIM,_TARIKH)`
 * `0580IbnCimrani.InbaFiTarikhKhulafa (TAGS: CENT0600,HIS,PPE,_TARIKH)`
+* `0584IbnMunqidhShayzari.Ictibar (TAGS: CENT0600,_TARAJIM,_TARIKH)`
 * `0584IbnMusaHazimi.Amakin (TAGS: CENT0600,GEO,PPE,_BULDAN,_GHARIB,_JUGHRAFIYA,_MACAJIM,_MUSTALAHAT,_RIHLAT)`
 * `0584IbnMusaHazimi.CujalaMubtadi (TAGS: CENT0600,GEN,PPE,_ANSAB,_MISC)`
 * `0597CimadDinKatib.BarqShami (TAGS: CENT0600,PPE,_BULDAN,_TARIKH)`
@@ -46,6 +47,7 @@
 * `0597IbnJawzi.TalqihFuhum (TAGS: CENT0600,PPE,_TARIKH)`
 * `0597IbnJawzi.TarikhBaytMuqaddas (TAGS: CENT0600,PPE,_BULDAN,_TARIKH)`
 * `0599IbnYahyaDabbi.BughyaMultamis (TAGS: CENT0600,PPE,_TABAQAT,_TARAJIM)`
+* `0600AbuBaqaHilli.ManaqibMazidiya (TAGS: CENT0600,_TARAJIM,_TARIKH)`
 
 
 # General description of the workflow with mARkdown
