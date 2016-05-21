@@ -1,4 +1,4 @@
-# 0600AH [[ [Re]generated on 2016-05-18 (17:04:28) ]]
+# 0600AH [[ [Re]generated on 2016-05-21 (13:27:19) ]]
 
 * `0507AbuBakrShashi.HilyaCulama (TAGS: CENT0600,PPE,_FIQH,_SHAFICI)`
 * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: CENT0600,PPE,_ANSAB,_HADITH,_MISC,_TABAQAT,_TARAJIM)`
@@ -8,6 +8,7 @@
 * `0521IbnAbiYacla.TabaqatHanabila (TAGS: BIO,CENT0600,COL,PPE,_CAQAID,_FIQH,_MILAL,_TABAQAT,_TARAJIM,_TARIKH)`
 * `0521MuhammadHamadhani.TakmilaTarikhTabari (TAGS: CENT0600,PPE,_TARIKH)`
 * `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (TAGS: CENT0600,PPE,_HADITH,_TABAQAT,_TARAJIM)`
+* `0528FathIbnKhaqan.QalaidCiqyan (TAGS: CENT0300,_TABAQAT,_TARAJIM)`
 * `0535QawwamSunna.DalailNubuwwa (TAGS: CENT0600,PPE,_ASHAB,_CAQAID,_HADITH,_SHAMAIL,_SIRA,_SUNNI,_TABAQAT,_TARAJIM)`
 * `0535QawwamSunna.SiyarSalaf (TAGS: BIO,CENT0600,PPE,_TABAQAT,_TARAJIM)`
 * `0538MahmudZamakhshari.JibalWaAmkina (TAGS: CENT0600,GEO,PPE,_BULDAN,_JUGHRAFIYA,_RIHLAT)`
