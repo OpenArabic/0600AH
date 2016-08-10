@@ -1,5 +1,11 @@
+# Notes on text
 
+##0577IbnAnbari.NuzhaAlibba.Shamela0003583-ara1.markdown
 
-Please, copy-paste questions from `text_questionnaire.md` into this file and answer the questions.
-If you have done so, please check if `text_questionnaire.md` has been updated and has new questions.
+Collection of biographies 
 
+Most Names were already tagged - but some were missing comletely & some were wrongly tagged
+
+The names in the markdownfile often differ significantly from the ones in the PDF ( often shortforms e.g page 53, sometimes completly different names, sometimes wrong spelling e.g. page 196) -> names were not corrected (only in one or two instances in the begining)
+
+Editor: Jonas Köpsel
