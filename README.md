@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-# 0600AH [[ [Re]generated on 2016-08-12 (22:26:56) ]]
-=======
-Just testing
-
-
-# 0600AH [[ [Re]generated on 2016-08-08 (14:30:29) ]]
->>>>>>> 1a143134ff2c2f0fd005c685c5a8ca19609ae031
+# 0600AH [[ [Re]generated on 2016-08-13 (18:50:36) ]]
 
 * `0507AbuBakrShashi.HilyaCulama (TAGS: CENT0600,PPE,_FIQH,_SHAFICI)`
 * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: CENT0600,PPE,_ANSAB,_HADITH,_MISC,_TABAQAT,_TARAJIM)`
@@ -29,9 +22,9 @@ Just testing
 * `0561Samcani.Ansab (TAGS: CENT0600,COL,DHB,ONO,PPE,_ANSAB,_MACAJIM,_TABAQAT,_TARAJIM,_TARIKH)`
 * `0561Samcani.Muntakhab (TAGS: CENT0600,PPE,_TABAQAT,_TARAJIM)`
 * `0561Samcani.Tahbir (TAGS: CENT0600,PPE,_TABAQAT,_TARAJIM,_TARIKH)`
-* `0565IbnZaydBayhaqai.TatimmaSiwanHikma (TAGS: CENT0600,PPE,_MISC,_TABAQAT,_TARAJIM)`
 * `0565IbnZaydBayhaqi.LubabAnsab (TAGS: CENT0600,PPE,_ANSAB,_MISC)`
 * `0565IbnZaydBayhaqi.TarikhBayhaq (TAGS: CENT0600,PPE,_TABAQAT,_TARAJIM)`
+* `0565IbnZaydBayhaqi.TatimmaSiwanHikma (TAGS: CENT0600,PPE,_MISC,_TABAQAT,_TARAJIM)`
 * `0569CumaraHakami.NukatCasriyya (TAGS: CENT0600,PPE,_ADAD,_BALAGHA)`
 * `0571IbnCasakir.MucjamShuyukh (TAGS: CENT0600,PPE,_HADITH)`
 * `0571IbnCasakir.TarikhDimashq (TAGS: BIO,CENT0600,COL,PPE,_BULDAN,_HADITH,_SUNNI,_TABAQAT,_TARAJIM,_TARIKH)`
