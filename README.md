@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # 0600AH [[ [Re]generated on 2016-08-12 (22:26:56) ]]
+=======
+Just testing
+
+
+# 0600AH [[ [Re]generated on 2016-08-08 (14:30:29) ]]
+>>>>>>> 1a143134ff2c2f0fd005c685c5a8ca19609ae031
 
 * `0507AbuBakrShashi.HilyaCulama (TAGS: CENT0600,PPE,_FIQH,_SHAFICI)`
 * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: CENT0600,PPE,_ANSAB,_HADITH,_MISC,_TABAQAT,_TARAJIM)`
