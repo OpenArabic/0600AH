@@ -1,5 +1,15 @@
+1. Describe why you chose this specific version of the text. Why others, in your opinion, are worse?
 
+TThere were pretags already. A structure was visible.
 
-Please, copy-paste questions from `text_questionnaire.md` into this file and answer the questions.
-If you have done so, please check if `text_questionnaire.md` has been updated and has new questions.
+2. Which edition you used for collation? How close the text to the edition? Is pagination the same?
+No original found.
+PDF (Internetversion, no download) says second edition which was published in 1990, H 1415; text says first edition p 1992, H1412, but the PDF is the exact match.
 
+3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
+
+Type your response here.
+
+4. Add any comments on the text
+
+Type your response here
