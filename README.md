@@ -57,7 +57,7 @@
 
 
 
-# 0600AH [[ [Re]generated on 2016-08-18 (17:44:38) ]]
+# 0600AH [[ [Re]generated on 2016-08-18 (18:17:26) ]]
 
 * `0507AbuBakrShashi.HilyaCulama `
     * TAGS: CENT0600,PPE,_FIQH,_SHAFICI
@@ -93,6 +93,8 @@
     * TAGS: CENT0600,PPE,_AJZA,_HADITH
 * `0544CiyadIbnMusaYahsubi.TartibMadarik `
     * TAGS: BIO,CENT0600,COL,PPE,_TABAQAT,_TARAJIM,_TARIKH
+* `0550AbuHajjajAshcari.TacrifBiAnsab `
+    * TAGS: CENT0600,PPE,_ANSAB,_BULDAN,_TARIKH
 * `0555IbnQalanisi.Tarikh `
     * TAGS: BIO,CENT0600,PPE,_TARIKH
 * `0560SharifIdrisi.NuzhaMushtaq `
@@ -109,6 +111,8 @@
     * TAGS: CENT0600,PPE,_TABAQAT,_TARAJIM
 * `0565IbnZaydBayhaqi.TatimmaSiwanHikma `
     * TAGS: CENT0600,PPE,_MISC,_TABAQAT,_TARAJIM
+* `0567IbnKhashshabBaghdadi.TarikhMawalidAimma `
+    * TAGS: CENT0600,_HADITH,_SHICI
 * `0569CumaraHakami.NukatCasriyya `
     * TAGS: CENT0600,PPE,_ADAB,_BALAGHA
 * `0571IbnCasakir.MucjamShuyukh `
