@@ -51,13 +51,15 @@
 - `0900AbuCabdAllahHimyari.RawdMictar.Shamela0001043-ara1.completed`
 
 
-## Vetted (0)
+## Vetted (2)
+
+- `0310Tabari.Tarikh.Shia003474Vols-ara1.mARkdown`
+- `0658IbnAbbar.TuhfaQadim.Shamela0026108-ara1.mARkdown`
 
 
 
 
-
-# 0600AH [[ [Re]generated on 2016-08-19 (13:43:35) ]]
+# 0600AH [[ [Re]generated on 2016-08-21 (20:32:00) ]]
 
 * `0507AbuBakrShashi.HilyaCulama `
     * TAGS: CENT0600,PPE,_FIQH,_SHAFICI
