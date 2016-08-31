@@ -1,17 +1,16 @@
 ## Status Report
  
 * 55 titles
-* 29,279,683 words
-* 137,837 logical units
+* 29,283,660 words
+* 137,695 logical units
 * 114,361 bios
 
-### `*.inProgress` (6 titles: 8,604,237 words; 38,417 units; 28,809 bios)
+### `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 4,081 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 10,845 bios)`
 - `0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)`
 - `0310Tabari.Tarikh (1,468,698 words; 554 units; 0 bios)`
-- `0561Samcani.Ansab (875,595 words; 5,205 units; 4,458 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 9,425 bios)`
 
 
@@ -64,9 +63,10 @@
 - `0900AbuCabdAllahHimyari.RawdMictar (360,474 words; 1,658 units; 1,614 bios)`
 
 
-### `*.mARkdown` (4 titles: 1,326,374 words; 13,002 units; 11,981 bios)
+### `*.mARkdown` (5 titles: 2,205,946 words; 18,065 units; 16,439 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
+- `0561Samcani.Ansab (879,572 words; 5,063 units; 4,458 bios)`
 - `0681IbnKhallikan.WafayatAcyan (677,511 words; 1,528 units; 862 bios)`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin (421,313 words; 8,842 units; 8,814 bios)`
 - `1450MawsucaShicriya.MucjamShucara (158,184 words; 2,333 units; 2,305 bios)`
@@ -74,7 +74,7 @@
 
 
 
-# 0600AH [[ [Re]generated on 2016-08-31 (11:18:00) ]]
+# 0600AH [[ [Re]generated on 2016-08-31 (12:22:57) ]]
 
 * `0507AbuBakrShashi.HilyaCulama (TAGS: CENT0600, PPE, _FIQH, _SHAFICI)`
 * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: CENT0600, PPE, _ANSAB, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
