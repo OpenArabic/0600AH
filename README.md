@@ -1,16 +1,17 @@
 ## Status Report
  
-* 54 titles
-* 28,404,088 words
-* 132,632 logical units
-* 109,903 bios
+* 55 titles
+* 29,279,683 words
+* 137,837 logical units
+* 114,361 bios
 
-### `*.inProgress` (5 titles: 7,728,642 words; 33,212 units; 24,351 bios)
+### `*.inProgress` (6 titles: 8,604,237 words; 38,417 units; 28,809 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 4,081 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 10,845 bios)`
 - `0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)`
 - `0310Tabari.Tarikh (1,468,698 words; 554 units; 0 bios)`
+- `0561Samcani.Ansab (875,595 words; 5,205 units; 4,458 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 9,425 bios)`
 
 
@@ -73,7 +74,7 @@
 
 
 
-# 0600AH [[ [Re]generated on 2016-08-30 (16:52:11) ]]
+# 0600AH [[ [Re]generated on 2016-08-31 (11:18:00) ]]
 
 * `0507AbuBakrShashi.HilyaCulama (TAGS: CENT0600, PPE, _FIQH, _SHAFICI)`
 * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: CENT0600, PPE, _ANSAB, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
