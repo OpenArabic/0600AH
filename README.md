@@ -1,17 +1,18 @@
 ## Status Report
  
-* 59 titles
-* 30,942,155 words
+* 60 titles
+* 31,039,385 words
 * 156,003 logical units
 * 12,900 bios
 
-### `*.inProgress` (6 titles: 8,408,580 words; 35,706 units; 0 bios)
+### `*.inProgress` (7 titles: 8,505,810 words; 35,706 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0310Tabari.JamicBayan (2,850,544 words; 0 units; 0 bios)`
 - `0310Tabari.Tarikh (1,468,698 words; 554 units; 0 bios)`
 - `0421Miskawayh.Tajarib (679,938 words; 2,494 units; 0 bios)`
+- `0748Dhahabi.MacrifaQurraKibar (97,230 words; 0 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
 
 
@@ -78,7 +79,7 @@
 
 
 
-# 0600AH [[ [Re]generated on 2016-09-02 (17:54:33) ]]
+# 0600AH [[ [Re]generated on 2016-09-02 (18:06:20) ]]
 
 * `0507AbuBakrShashi.HilyaCulama (TAGS: CENT0600, PPE, _FIQH, _SHAFICI)`
 * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: CENT0600, PPE, _ANSAB, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
@@ -93,6 +94,7 @@
 * `0535QawwamSunna.DalailNubuwwa (TAGS: CENT0600, PPE, _ASHAB, _CAQAID, _HADITH, _SHAMAIL, _SIRA, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0535QawwamSunna.SiyarSalaf (TAGS: BIO, CENT0600, PPE, _TABAQAT, _TARAJIM)`
 * `0538MahmudZamakhshari.JibalWaAmkina (TAGS: CENT0600, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
+* `0540AbuMansurJawaliqi.SharhAdabKatib (TAGS: CENT0600, _ADAB, _ADAB, _BALAGHA, _CARUD, _KITABA)`
 * `0541IbnCatiyyaMuharibi.Fahrasa (TAGS: CENT0600, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `0542IbnBassamShantarini.Dhakhira (TAGS: CENT0600, PPE, _ADAB, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0544CiyadIbnMusaYahsubi.Ghunya (TAGS: CENT0600, PPE, _AJZA, _HADITH)`
