@@ -106,7 +106,7 @@
 
 
 
-# 0600AH [[ [Re]generated on 2016-10-17 (07:49:16) ]]
+# 0600AH [[ [Re]generated on 2016-10-17 (13:25:40) ]]
 
 * `0505Ghazali.AsnafMaghrurin (TAGS: CENT0600, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
 * `0505Ghazali.BidayatHidaya (TAGS: CENT0600, _ADAB, _ADHKAR, _RAQAIQ)`
@@ -173,6 +173,14 @@
 * `0578IbnBashkuwal.MaRuwiyaFiHawd (TAGS: CENT0300, CENT0600, _AJZA, _AKHLAQ, _CAQAID, _CHRONOMULTIPLE, _HADITH, _SUNNI)`
 * `0578IbnBashkuwal.Sila (TAGS: BIO, CENT0600, COL, PPE, _TARAJIM, _TARIKH)`
 * `0580IbnCimrani.InbaFiTarikhKhulafa (TAGS: CENT0600, HIS, PPE, _TARIKH)`
+* `0581IbnCumarIsbahani.DhikrIbnAbiDunya (TAGS: CENT0600, _AJZA, _HADITH)`
+* `0581IbnCumarIsbahani.DhikrIbnMandah (TAGS: CENT0600, _AJZA, _HADITH)`
+* `0581IbnCumarIsbahani.KalamCalaHadithIstilqa (TAGS: CENT0600, _HADITH, _MAKHTUTAT)`
+* `0581IbnCumarIsbahani.KhasaisMusnadAhmad (TAGS: CENT0600, _CULUM, _HADITH, _MISC, _MUSTALAHAT, _SUNNI)`
+* `0581IbnCumarIsbahani.Lataif (TAGS: CENT0600, _CULUM, _HADITH, _MAKHTUTAT)`
+* `0581IbnCumarIsbahani.MuntahaRaghabat (TAGS: CENT0600, _AJZA, _HADITH)`
+* `0581IbnCumarIsbahani.NuzhatHuffaz (TAGS: CENT0600, _AJZA, _HADITH, _MUSTALAHAT)`
+* `0581IbnCumarIsbahani.TiwalatAkhbar (TAGS: CENT0600, _HADITH, _MAKHTUTAT)`
 * `0584IbnMunqidhShayzari.Ictibar (TAGS: CENT0600, _TARAJIM, _TARIKH)`
 * `0584IbnMusaHazimi.Amakin (TAGS: CENT0600, GEO, PPE, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT)`
 * `0584IbnMusaHazimi.CujalaMubtadi (TAGS: CENT0600, GEN, PPE, _ANSAB, _MISC)`
