@@ -138,7 +138,7 @@
 
 
 
-# 0600AH [[ [Re]generated on 2016-11-25 (01:18:10) ]]
+# 0600AH [[ [Re]generated on 2016-11-28 (22:57:48) ]]
 
 * `0505Ghazali.AsnafMaghrurin (TAGS: CENT0600, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
 * `0505Ghazali.BidayatHidaya (TAGS: CENT0600, _ADAB, _ADHKAR, _RAQAIQ)`
@@ -226,6 +226,7 @@
 * `0571IbnCasakir.TarjamatHusayn (TAGS: CENT0600, _IMAM, _NABI, _SIRA)`
 * `0571IbnCasakir.Tawba (TAGS: CENT0600, _AJZA, _AKHLAQ, _HADITH, _MISC, _SULUK)`
 * `0573NashwanHimyari.KhulasaSiyar (TAGS: CENT0600, _TARAJIM, _TARIKH)`
+* `0573RashidWatwat.MatlubKullTalib (TAGS: CENT0600, _HADITH, _SHICI)`
 * `0575IbnBabawayh.Arbacuna (TAGS: CENT0600, _HADITH, _SHICI)`
 * `0575IbnBabawayh.Fihrist (TAGS: CENT0600, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `0575IbnKhayrIshbili.Fahrasa (TAGS: CENT0600, PPE, _ADILLA, _FAHARIS, _KUTUB)`
