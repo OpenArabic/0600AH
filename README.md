@@ -138,8 +138,13 @@
 
 
 
-# 0600AH [[ [Re]generated on 2016-12-10 (14:09:52) ]]
+# 0600AH [[ [Re]generated on 2016-12-10 (20:36:52) ]]
 
+* `0502RaghibIsbahani.DharicaFiMakarimSharica (TAGS: CENT0600, _ADAB, _ADHKAR, _RAQAIQ)`
+* `0502RaghibIsbahani.Mufradat (TAGS: CENT0600, _AHKAM, _CULUM, _GHARIB, _MACAJIM, _MUSTALAHAT, _QURAN, _SUNNI, _TAFSIR)`
+* `0502RaghibIsbahani.MuhadaratUdaba (TAGS: CENT0600, _ADAB, _ADAB, _BALAGHA, _QISAS, _TARAIF)`
+* `0502RaghibIsbahani.TafsilNashatayn (TAGS: CENT0600, _ADAB, _ADHKAR, _MISC, _RAQAIQ)`
+* `0502RaghibIsbahani.Tafsir (TAGS: CENT0600, _TAFSIR)`
 * `0505Ghazali.AsnafMaghrurin (TAGS: CENT0600, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
 * `0505Ghazali.BidayatHidaya (TAGS: CENT0600, _ADAB, _ADHKAR, _RAQAIQ)`
 * `0505Ghazali.Fadaih (TAGS: CENT0600, _CAQAID, _MILAL, _RUDUD)`
@@ -164,6 +169,15 @@
 * `0507AbuBakrShashi.HilyaCulama (TAGS: CENT0600, PPE, _FIQH, _SHAFICI)`
 * `0507IbnMuhammadKharkushi.SharafMustafa (TAGS: CENT0500, _SHAMAIL, _SIRA)`
 * `0507IbnQaysarani.AnsabMuttafiqa (TAGS: CENT0600, PPE, _ANSAB, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
+* `0507IbnQaysarani.AtrafGharaib (TAGS: CENT0600, _AHKAM, _CILAL, _DACIF, _HADITH, _MAWDUC, _SUALAT)`
+* `0507IbnQaysarani.DhakhiratHuffaz (TAGS: CENT0600, _CILAL, _DACIF, _HADITH, _MAWDUC, _SUALAT)`
+* `0507IbnQaysarani.IdahIshkal (TAGS: CENT0600, _CULUM, _HADITH, _MUSTALAHAT)`
+* `0507IbnQaysarani.MacrifatTadhkira (TAGS: CENT0600, _CILAL, _DACIF, _HADITH, _MAWDUC, _SUALAT)`
+* `0507IbnQaysarani.Manthur (TAGS: CENT0600, _AJZA, _HADITH)`
+* `0507IbnQaysarani.MasalatCuluwwWaNuzul (TAGS: CENT0600, _CULUM, _HADITH, _MISC, _MUSTALAHAT)`
+* `0507IbnQaysarani.MasalatTasmiyya (TAGS: CENT0600, _AJZA, _HADITH)`
+* `0507IbnQaysarani.Samac (TAGS: CENT0600, _BUHUTH, _FIQH, _MASAIL)`
+* `0507IbnQaysarani.TadhkiratHuffaz (TAGS: CENT0600, _CILAL, _SUALAT)`
 * `0508FattalNaysaburi.RawdaWacizin (TAGS: CENT0600, PPE, SHC, _HADITH, _SHICI)`
 * `0510IbnMascudBaghawi.AnwarFiShamailNabi (TAGS: CENT0600, _SHAMAIL, _SIRA)`
 * `0510IbnMascudBaghawi.SharhSunna (TAGS: CENT0600, _HADITH, _SHARH, _TARAJIM)`
