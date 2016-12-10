@@ -138,7 +138,7 @@
 
 
 
-# 0600AH [[ [Re]generated on 2016-12-07 (01:57:28) ]]
+# 0600AH [[ [Re]generated on 2016-12-10 (14:09:52) ]]
 
 * `0505Ghazali.AsnafMaghrurin (TAGS: CENT0600, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
 * `0505Ghazali.BidayatHidaya (TAGS: CENT0600, _ADAB, _ADHKAR, _RAQAIQ)`
@@ -175,10 +175,17 @@
 * `0521IbnAbiYacla.TabaqatHanabila (TAGS: BIO, CENT0600, COL, PPE, _CAQAID, _FIQH, _MILAL, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0521MuhammadHamadhani.TakmilaTarikhTabari (TAGS: CENT0600, PPE, _TARIKH)`
 * `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (TAGS: CENT0600, PPE, _HADITH, _TABAQAT, _TARAJIM)`
+* `0525IbnCaliTabari.BisharatMustafa (TAGS: CENT0600, _IMAM, _NABI, _SIRA)`
 * `0528FathIbnKhaqan.QalaidCiqyan (TAGS: CENT0300, _TABAQAT, _TARAJIM)`
 * `0528IbnZaqqaqBalansi.Diwan (TAGS: _SHICR_ANDALUSI, _CENT00NO, _SHICR)`
+* `0535QadiMaristan.Mashyakha (TAGS: CENT0600, PPE, _HADITH)`
+* `0535QawwamSunna.Cawali (TAGS: CENT0600, _HADITH, _MAKHTUTAT)`
 * `0535QawwamSunna.DalailNubuwwa (TAGS: CENT0600, PPE, _ASHAB, _CAQAID, _HADITH, _SHAMAIL, _SIRA, _SUNNI, _TABAQAT, _TARAJIM)`
+* `0535QawwamSunna.HujjaFiBayanMahajja (TAGS: CENT0600, _AJZA, _CAQAID, _HADITH, _MILAL)`
+* `0535QawwamSunna.IcrabQuran (TAGS: CENT0600, _CULUM, _QURAN)`
+* `0535QawwamSunna.Musalsalat (TAGS: CENT0600, _HADITH, _MAKHTUTAT)`
 * `0535QawwamSunna.SiyarSalaf (TAGS: BIO, CENT0600, PPE, _TABAQAT, _TARAJIM)`
+* `0535QawwamSunna.TarghibWaTarhib (TAGS: CENT0600, _HADITH, _TAKHRIJ)`
 * `0538IbnCumarZamakhshari.FaiqFiGharib (TAGS: CENT0600, _FAHARIS, _FIQH, _GHARIB, _HADITH, _MACAJIM, _MUSTALAHAT, _SUNNI)`
 * `0538MahmudZamakhshari.JibalWaAmkina (TAGS: CENT0600, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 * `0540AbuMansurJawaliqi.SharhAdabKatib (TAGS: CENT0600, _ADAB, _ADAB, _BALAGHA, _CARUD, _KITABA)`
@@ -205,6 +212,7 @@
 * `0565IbnZaydBayhaqi.LubabAnsab (TAGS: CENT0600, PPE, _ANSAB, _MISC)`
 * `0565IbnZaydBayhaqi.TarikhBayhaq (TAGS: CENT0600, PPE, _TABAQAT, _TARAJIM)`
 * `0565IbnZaydBayhaqi.TatimmaSiwanHikma (TAGS: CENT0600, PPE, _MISC, _TABAQAT, _TARAJIM)`
+* `0566AbuMascudHajji.WafayatJamacatMinMuhaddithin (TAGS: CENT0600, _AJZA, _HADITH)`
 * `0567IbnKhashshabBaghdadi.TarikhMawalidAimma (TAGS: CENT0600, _HADITH, _SHICI)`
 * `0569CumaraHakami.NukatCasriyya (TAGS: CENT0600, PPE, _ADAB, _BALAGHA)`
 * `0571IbnCasakir.AkhbarLiHifzQuran (TAGS: CENT0600, _AJZA, _HADITH)`
@@ -240,6 +248,7 @@
 * `0575IbnKhayrIshbili.Fahrasa (TAGS: CENT0600, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `0576IbnMuhammadSilafi.AhadithCanJacfarSarraj (TAGS: CENT0600, _HADITH, _MAKHTUTAT)`
 * `0576IbnMuhammadSilafi.AhadithCidiyya (TAGS: CENT0600, _AJZA, _HADITH)`
+* `0576IbnMuhammadSilafi.AhadithShaykhKhujani (TAGS: CENT0600, _AJZA, _HADITH)`
 * `0576IbnMuhammadSilafi.AhadithWaHikayat (TAGS: CENT0600, _HADITH, _MAKHTUTAT)`
 * `0576IbnMuhammadSilafi.ArbacunaFiHaqqFuqara (TAGS: CENT0600, _HADITH, _MAKHTUTAT)`
 * `0576IbnMuhammadSilafi.HadithCanHakimKufa (TAGS: CENT0600, _AJZA, _HADITH)`
@@ -261,11 +270,14 @@
 * `0576IbnMuhammadSilafi.MuntaqaMinSafinaBaghdadiyya (TAGS: CENT0600, _AJZA, _HADITH)`
 * `0576IbnMuhammadSilafi.QasidaSilafi (TAGS: CENT0600, _AJZA, _HADITH)`
 * `0576IbnMuhammadSilafi.RihlaIlaAbhar (TAGS: CENT0600, _AJZA, _HADITH)`
+* `0576IbnMuhammadSilafi.Tuyurat (TAGS: CENT0500, _HADITH, _TARAJIM)`
+* `0576IbnMuhammadSilafi.Tuyurat (TAGS: CENT0600, _HADITH)`
 * `0576IbnMuhammadSilafi.Wajiz (TAGS: CENT0600, PPE, _HADITH, _MUSTALAHAT, _TABAQAT, _TARAJIM)`
 * `0577IbnAnbari.NuzhaAlibba (TAGS: CENT0600, PPE, _TABAQAT, _TARAJIM)`
 * `0578IbnBashkuwal.GhawamidAsma (TAGS: CENT0600, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
 * `0578IbnBashkuwal.MaRuwiyaFiHawd (TAGS: CENT0300, CENT0600, _AJZA, _AKHLAQ, _CAQAID, _CHRONOMULTIPLE, _HADITH, _SUNNI)`
 * `0578IbnBashkuwal.Sila (TAGS: BIO, CENT0600, COL, PPE, _TARAJIM, _TARIKH)`
+* `0580IbnCaliIbnAbiYacla.TajridAsmaWaKuna (TAGS: CENT0600, PPE, _TABAQAT, _TARAJIM)`
 * `0580IbnCimrani.InbaFiTarikhKhulafa (TAGS: CENT0600, HIS, PPE, _TARIKH)`
 * `0581AbuQasimSuhayli.Faraid (TAGS: CENT0600, _BUHUTH, _CULUM, _FIQH, _MASAIL, _QURAN, _USUL)`
 * `0581AbuQasimSuhayli.NataijFikrFiNahw (TAGS: CENT0600, _NAHW, _SARF)`
@@ -287,6 +299,13 @@
 * `0584IbnMunqidhShayzari.Ictibar (TAGS: CENT0600, _TARAJIM, _TARIKH)`
 * `0584IbnMusaHazimi.Amakin (TAGS: CENT0600, GEO, PPE, _BULDAN, _GHARIB, _JUGHRAFIYA, _MACAJIM, _MUSTALAHAT, _RIHLAT)`
 * `0584IbnMusaHazimi.CujalaMubtadi (TAGS: CENT0600, GEN, PPE, _ANSAB, _MISC)`
+* `0595IbnRushdHafid.BidayatMujtahid (TAGS: CENT0600, _FIQH, _MALIKI, _MUSTAQILLA, _USUL)`
+* `0595IbnRushdHafid.DaruriFiUsulFiqh (TAGS: CENT0600, _FIQH, _QAWACID, _USUL)`
+* `0595IbnRushdHafid.FaslMaqal (TAGS: CENT0600, _MISC)`
+* `0595IbnRushdHafid.Qiyas (TAGS: CENT0600, _MISC)`
+* `0595IbnRushdHafid.RisalatNafs (TAGS: CENT0600, _MISC)`
+* `0595IbnRushdHafid.TalkhisKhitaba (TAGS: CENT0600, _MISC)`
+* `0595IbnRushdHafid.TalkhisSafsata (TAGS: CENT0600, _MISC)`
 * `0597CimadDinKatib.BarqShami (TAGS: CENT0600, PPE, _BULDAN, _TARIKH)`
 * `0597CimadDinKatib.KharidaQasr (TAGS: CENT0600, COL, POE, PPE, _ADAB, _ADAB, _BALAGHA, _TARAJIM, _TARIKH)`
 * `0597IbnJawzi.Adhkiya (TAGS: CENT0600, _ADAB, _ADAB, _ADHKAR, _QISAS, _RAQAIQ, _TARAIF)`
