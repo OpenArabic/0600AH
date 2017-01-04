@@ -138,7 +138,7 @@
 
 
 
-# 0600AH [[ [Re]generated on 2016-12-10 (20:36:52) ]]
+# 0600AH [[ [Re]generated on 2017-01-04 (15:09:51) ]]
 
 * `0502RaghibIsbahani.DharicaFiMakarimSharica (TAGS: CENT0600, _ADAB, _ADHKAR, _RAQAIQ)`
 * `0502RaghibIsbahani.Mufradat (TAGS: CENT0600, _AHKAM, _CULUM, _GHARIB, _MACAJIM, _MUSTALAHAT, _QURAN, _SUNNI, _TAFSIR)`
@@ -200,8 +200,17 @@
 * `0535QawwamSunna.Musalsalat (TAGS: CENT0600, _HADITH, _MAKHTUTAT)`
 * `0535QawwamSunna.SiyarSalaf (TAGS: BIO, CENT0600, PPE, _TABAQAT, _TARAJIM)`
 * `0535QawwamSunna.TarghibWaTarhib (TAGS: CENT0600, _HADITH, _TAKHRIJ)`
-* `0538IbnCumarZamakhshari.FaiqFiGharib (TAGS: CENT0600, _FAHARIS, _FIQH, _GHARIB, _HADITH, _MACAJIM, _MUSTALAHAT, _SUNNI)`
-* `0538MahmudZamakhshari.JibalWaAmkina (TAGS: CENT0600, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
+* `0538JarAllahZamakhshari.AsasBalagha (TAGS: CENT0600, _BALAGHA, _FASAHA, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
+* `0538JarAllahZamakhshari.AtwaqDhahab (TAGS: CENT0600, _ADAB, _AKHLAQ, _BALAGHA, _MISC, _SULUK)`
+* `0538JarAllahZamakhshari.FaiqFiGharib (TAGS: CENT0600, _FAHARIS, _FIQH, _GHARIB, _HADITH, _MACAJIM, _MUSTALAHAT, _SUNNI)`
+* `0538JarAllahZamakhshari.JibalWaAmkinaWaMiyah (TAGS: CENT0600, GEO, PPE, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
+* `0538JarAllahZamakhshari.KalimNawabigh (TAGS: CENT0600, _ADAB, _ADAB, _ADHKAR, _BALAGHA, _FASAHA, _RAQAIQ)`
+* `0538JarAllahZamakhshari.Kashshaf (TAGS: CENT0600, _CULUM, _QURAN, _SHICI, _TAFSIR)`
+* `0538JarAllahZamakhshari.Maqamat (TAGS: CENT0600, _ADAB, _ADAB, _BALAGHA, _FASAHA)`
+* `0538JarAllahZamakhshari.MufassilFiSuncatIcrab (TAGS: CENT0600, _MAJMUCAT, _NAHW, _SARF)`
+* `0538JarAllahZamakhshari.MustaqsaFiAmthal (TAGS: CENT0600, _ADAB, _ADAB, _AMTHAL, _BALAGHA)`
+* `0538JarAllahZamakhshari.Qustas (TAGS: CENT0600, _ADAB, _ADAB, _BALAGHA, _CARUD, _KITABA)`
+* `0538JarAllahZamakhshari.RabicAbrar (TAGS: CENT0600, _ADAB, _BALAGHA, _MISC)`
 * `0540AbuMansurJawaliqi.SharhAdabKatib (TAGS: CENT0600, _ADAB, _ADAB, _BALAGHA, _CARUD, _KITABA)`
 * `0540IbnBadhish.IqnacFiQiraat (TAGS: CENT0600, _CULUM, _QURAN)`
 * `0541IbnCatiyaAndalusi.Fahrasa (TAGS: CENT0600, PPE, _ADILLA, _FAHARIS, _KUTUB)`
@@ -257,6 +266,7 @@
 * `0571IbnCasakir.Tawba (TAGS: CENT0600, _AJZA, _AKHLAQ, _HADITH, _MISC, _SULUK)`
 * `0573NashwanHimyari.KhulasaSiyar (TAGS: CENT0600, _TARAJIM, _TARIKH)`
 * `0573RashidWatwat.MatlubKullTalib (TAGS: CENT0600, _HADITH, _SHICI)`
+* `0574ShuhdaBintAhmad.Cumda (TAGS: CENT0600, _AJZA, _FAWAID, _HADITH, _MISC, _TARAJIM)`
 * `0575IbnBabawayh.Arbacuna (TAGS: CENT0600, _HADITH, _SHICI)`
 * `0575IbnBabawayh.Fihrist (TAGS: CENT0600, PPE, SHC, _HADITH, _SHICI, _TARAJIM)`
 * `0575IbnKhayrIshbili.Fahrasa (TAGS: CENT0600, PPE, _ADILLA, _FAHARIS, _KUTUB)`
